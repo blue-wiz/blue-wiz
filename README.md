@@ -20,6 +20,11 @@ A PostgreSQL star schema, SQL analysis (RFM segmentation, cohort retention, Pare
 
 `SQL` `PostgreSQL` `Python` `scikit-learn`
 
+### 💳 [FraudLens](https://github.com/blue-wiz/Fraud-Detection): card-fraud detection
+Fraud models judged on **money saved**, not accuracy, using 284,807 card transactions with a time-based split and a cost model that charges for every manual review. The best model avoids **62% of fraud losses** after review costs, and a simpler, explainable model does almost as well.
+
+`Python` `scikit-learn` `Imbalanced data` `pytest`
+
 ### ⚡ [GridFlow](https://github.com/blue-wiz/gridflow): energy data pipeline
 A scheduled ELT pipeline that loads global energy and CO₂ data every week. It uses idempotent loads, dbt models and **26 data tests**, and runs on GitHub Actions. It shows the UK's low-carbon share of electricity rising from 23% to 65%, the **2nd-fastest rise of 108 countries**.
 

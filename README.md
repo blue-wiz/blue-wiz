@@ -16,9 +16,9 @@ How likely was that shot to be a goal? The model is trained on **38,318 shots** 
 `Python` `scikit-learn` `DoubleML` `pandas` `pytest`
 
 ### 🛒 [RetailPulse](https://github.com/blue-wiz/retailpulse): customer and revenue analytics
-A PostgreSQL star schema, SQL analysis (RFM segmentation, cohort retention, Pareto curve), a next-quarter spend model and a Power BI build package, all built on **541,909 transactions** from a UK online retailer. Key finding: the top 23% of customers bring in **68% of revenue**.
+A PostgreSQL star schema, SQL analysis (RFM segmentation, cohort retention, Pareto curve), and a next-quarter spend model, all built on **541,909 transactions** from a UK online retailer. Key finding: the top 23% of customers bring in **68% of revenue**.
 
-`SQL` `PostgreSQL` `Power BI` `DAX` `Python`
+`SQL` `PostgreSQL` `Python` `scikit-learn`
 
 ### ⚡ [GridFlow](https://github.com/blue-wiz/gridflow): energy data pipeline
 A scheduled ELT pipeline that loads global energy and CO₂ data every week. It uses idempotent loads, dbt models and **26 data tests**, and runs on GitHub Actions. It shows the UK's low-carbon share of electricity rising from 23% to 65%, the **2nd-fastest rise of 108 countries**.

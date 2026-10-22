@@ -1,4 +1,4 @@
-# Hi, I'm Selorm Amekuedee 👋
+# Hi, I'm Selorm Amekuedee 
 
 **Data Analyst and Engineer · 6+ years · United Kingdom**
 

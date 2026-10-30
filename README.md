@@ -44,4 +44,4 @@ A scheduled ELT pipeline that loads global energy and CO₂ data every week. It 
 
 ## Get in touch
 
-📫 amekuedees@gmail.com · 💼 [LinkedIn](#) · 🌐 [Portfolio](#)
+📫 amekuedees@gmail.com · 🌐 [Portfolio](#)
